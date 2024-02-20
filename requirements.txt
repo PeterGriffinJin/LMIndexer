@@ -1,0 +1,6 @@
+datasets==2.13.0
+faiss-gpu==1.7.2
+pytorch==1.11.0
+sentencepiece==0.1.99
+wandb==0.15.4
+transformers==4.30.2
