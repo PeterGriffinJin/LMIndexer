@@ -6,8 +6,9 @@ This repository contains the source code and datasets for [Language Models as Se
 
 - [Requirements](#requirements)
 - [Overview](#overview)
-- [Edge Representation Learning](#edge-representation-learning-edgeformer-e)
-- [Node Representation Learning](#node-representation-learning-edgeformer-n)
+- [Data Preparation](#data-preparation)
+- [Learn Semantic IDs](#learn-semantic-ids)
+- [Downstream Tasks](#downstream-tasks)
 - [Citations](#citations)
 
 ## Requirements
@@ -36,12 +37,12 @@ pip3 install -r requirements.txt
 
 **Raw data & data processing.** Raw data can be downloaded from [Amazon-Recommendation](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html), [Amazon-Retrieval](https://github.com/amazon-science/esci-data), [NQ](https://drive.google.com/drive/folders/1AcGozhgI679j9ybxL7iCi2iMHipIlHnY?usp=drive_link) and [MS-MACRO](https://drive.google.com/drive/folders/1WQTp7caUyQZXWwoVu2_Tj5NJ56pPsRVj?usp=drive_link) directly. More details about the data processing for recommendation, product retrieval and document retrieval can be found [here]() and [here]().
 
-## Training self-supervised semantic indexer LMIndexer
+## Learn Semantic IDs
 
-Codes are in ```SemanticID/```.
+Codes are in ```SemanticID/```. Please refer to the ```README.md``` [here]().
 
-## Finetune LMIndexer on downstream tasks
-Codes are in ```seq2seq/```.
+## Downstream Tasks
+Codes are in ```downstream/```. Please refer to the ```README.md``` [here]().
 
 
 ## Citations
