@@ -1,5 +1,12 @@
 # LMIndexer: Learning self-supervised semantic indexer with generative language model
 
+## Overview
+**LMIndexer** is a self-supervised framework learned to tokenize documents into semantic IDs.
+
+<p align="center">
+  <img src="fig/main.png" width="600px"/>
+</p>
+
 ## Data Preparation
 
 ```

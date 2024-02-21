@@ -1,5 +1,12 @@
 # Pipeline for apply LMIndexer on downstream tasks
 
+## Overview
+**LMIndexer** can be applied to various downstream tasks, including recommendation and retrieval.
+
+<p align="center">
+  <img src="fig/downstream.png" width="600px"/>
+</p>
+
 ## Sequential recommendation (Amazon)
 
 Train our model.
