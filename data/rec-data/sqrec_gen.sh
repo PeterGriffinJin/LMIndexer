@@ -1,6 +1,6 @@
 DOMAIN=beauty
 
-DATA_DIR=../rec-data/$DOMAIN
+DATA_DIR=./$DOMAIN
 SEMANTIC_MODE=ours # tree rqvae
 BASE_MODEL='bert-base-uncased'
 

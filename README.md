@@ -35,14 +35,14 @@ pip3 install -r requirements.txt
 ## Data Preparation
 **Download processed data.** To reproduce the results in our paper, you need to first download the processed [datasets](https://drive.google.com/drive/folders/1sFZ583qOmOVBg4RGKFhgvk7zNM-Sjtr2?usp=sharing). Then put the dataset folders under ```data/rec-data/{data_name}``` (data_name=Beauty, Sports, Toys) and ```data/retrieval-data/{data_name}``` (data_name=NQ_aug, macro) respectively.
 
-**Raw data & data processing.** Raw data can be downloaded from [Amazon-Recommendation](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html), [Amazon-Retrieval](https://github.com/amazon-science/esci-data), [NQ](https://drive.google.com/drive/folders/1AcGozhgI679j9ybxL7iCi2iMHipIlHnY?usp=drive_link) and [MS-MACRO](https://drive.google.com/drive/folders/1WQTp7caUyQZXWwoVu2_Tj5NJ56pPsRVj?usp=drive_link) directly. More details about the data processing for recommendation, product retrieval and document retrieval can be found [here]() and [here]().
+**Raw data & data processing.** Raw data can be downloaded from [Amazon-Recommendation](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html), [Amazon-Retrieval](https://github.com/amazon-science/esci-data), [NQ](https://drive.google.com/drive/folders/1AcGozhgI679j9ybxL7iCi2iMHipIlHnY?usp=drive_link) and [MS-MACRO](https://drive.google.com/drive/folders/1WQTp7caUyQZXWwoVu2_Tj5NJ56pPsRVj?usp=drive_link) directly. More details about the data processing for recommendation, product retrieval and document retrieval can be found [here]().
 
 ## Learn Semantic IDs
 
-Codes are in ```SemanticID/```. Please refer to the ```README.md``` [here]().
+Codes are in ```SemanticID/```. Please refer to the ```README.md``` [here](https://github.com/PeterGriffinJin/LMIndexer/tree/main/SemanticID).
 
 ## Downstream Tasks
-Codes are in ```downstream/```. Please refer to the ```README.md``` [here]().
+Codes are in ```downstream/```. Please refer to the ```README.md``` [here](https://github.com/PeterGriffinJin/LMIndexer/tree/main/downstream).
 
 
 ## Citations

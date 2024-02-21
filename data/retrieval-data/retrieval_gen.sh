@@ -1,7 +1,7 @@
-DOMAIN=macro
+DOMAIN=macro # NQ_aug
 
-DATA_DIR=./NCI_Data_process/${DOMAIN}_dataset
-SAVE_DIR=./processed/$DOMAIN
+DATA_DIR=../raw-data/$DOMAIN
+SAVE_DIR=./$DOMAIN
 
 SEMANTIC_MODE=ours
 BASE_MODEL='bert-base-uncased'

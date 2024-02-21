@@ -1,4 +1,4 @@
-domain=beauty
+domain=beauty # sports, toys
 
 mkdir $domain/
 
