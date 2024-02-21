@@ -4,7 +4,7 @@
 **LMIndexer** is a self-supervised framework learned to tokenize documents into semantic IDs.
 
 <p align="center">
-  <img src="fig/main.png" width="600px"/>
+  <img src="../fig/main.png" width="600px"/>
 </p>
 
 ## Data Preparation
