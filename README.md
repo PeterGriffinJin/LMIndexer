@@ -1,6 +1,6 @@
 # Language Models as Semantic Indexers
 
-This repository contains the source code and datasets for [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815), arxiv.
+This repository contains the source code and datasets for [Language Models as Semantic Indexers](https://arxiv.org/pdf/2310.07815), ICML 2024.
 
 ## Links
 
